@@ -33,7 +33,7 @@ function switchAge(age) {
       break;
     case 14:
       return "You are a teenager";
-      break;      
+      break;
     case 15:
       return "You are a teenager";
       break;
